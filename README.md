@@ -9,7 +9,7 @@
 
 ## edU, o ed con Undo multipli
 
-Il progetto consiste nello sviluppo, interamente in linguaggio C e con la sola possibilità di utilizzare la Libreria Standard del C, di un semplice text editor, che permette di aggiungere, eliminare, stampare righe di testo e di eseguire operazioni di undo/redo. Per maggiori dettagli, si rimanda al documento di specifica.
+Il progetto consiste nello sviluppo, interamente in linguaggio C e con la sola possibilità di utilizzare la Libreria Standard del C, di un semplice text editor, che permetta di aggiungere, eliminare, stampare righe di testo e di eseguire operazioni di undo/redo. Per maggiori dettagli, si rimanda al documento di specifica.
 
 ## Risultati dei test (privati)
 
